@@ -10,7 +10,7 @@ import { BrowserRouter,Route } from 'react-router-dom';
 
 
 
-const App = (props) =>  {
+const App = (props) => {
 
 
 
